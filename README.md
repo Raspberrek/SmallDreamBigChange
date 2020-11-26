@@ -5,7 +5,7 @@
 ```
 Short story about me and my biggest dream (README ONLY)
 - How did my IT story start?
-- How I made progress, how I want to develop?
+- How did I made progress, how do I want to develop?
 - What is my biggest goal?
   
 ### The story of an inquisitive child, or how it all began...
